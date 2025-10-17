@@ -1,0 +1,20 @@
+{
+  "name": "react-bbands-vercel",
+  "private": true,
+  "version": "0.3.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "vercel": "vercel"
+  },
+  "dependencies": {
+    "lightweight-charts": "^5.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
